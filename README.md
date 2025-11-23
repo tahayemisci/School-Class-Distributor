@@ -2,7 +2,8 @@
 
 Bu proje, ilkokul yönetimlerinin her yıl karşılaştığı karmaşık sınıf oluşturma sürecini otomatize etmek için geliştirilmiş bir **Python** masaüstü uygulamasıdır. Gerçek bir okul yöneticisinin (Müdür Yardımcısı) ihtiyaçları doğrultusunda tasarlanmış ve aktif olarak kullanılmıştır.
 
-![GUI Screenshot](GUI.png)
+<img width="706" height="253" alt="GUI" src="https://github.com/user-attachments/assets/b2b2ecfd-c7f0-4c30-aa1a-1861d1538b1e" />
+
 *Programın kullanıcı dostu arayüzü.*
 
 ## 🎯 Problem
@@ -22,7 +23,8 @@ Geliştirilen bu yazılım, Excel verilerini işleyerek saniyeler içinde optimi
 ## 📸 Sonuçlar ve Analiz
 Program çalıştırıldıktan sonra oluşturulan sınıfların dağılım grafiği aşağıdadır. Görüldüğü üzere öğrenci sayıları ve başarı ortalamaları sınıflar arasında dengelenmiştir.
 
-![Student Distribution Graph](Student_distribution.png)
+<img width="1295" height="480" alt="Student_distribution" src="https://github.com/user-attachments/assets/e6ae3f75-fab1-4b65-9efc-24d16595de26" />
+
 *Otomatik oluşturulan sınıfların öğrenci dağılım analizi.*
 
 ## 🛠️ Kullanılan Teknolojiler
