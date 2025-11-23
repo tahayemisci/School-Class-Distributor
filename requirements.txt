@@ -1,2 +1,6 @@
 pandas
+<<<<<<< HEAD
 openpyxl
+=======
+openpyxl
+>>>>>>> c152f71423ec03f34c6df91d749302a078b1831b
